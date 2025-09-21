@@ -8,7 +8,7 @@ API para automatizar o processo de embalagem de pedidos da loja de jogos do Seu 
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/mateusgf00/l2code-teste.git
 cd l2code-teste
 ```
 
